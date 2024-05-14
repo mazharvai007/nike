@@ -30,9 +30,9 @@ export const navLinks = [
 ];
 
 export const shoes = [
-	{ thumbnail: thumbnailShoe1, bigShoe: bigShoe1 },
-	{ thumbnail: thumbnailShoe2, bigShoe: bigShoe2 },
-	{ thumbnail: thumbnailShoe3, bigShoe: bigShoe3 },
+	{ thumbnail: thumbnailShoe1, bigShoe: bigShoe1, label: 'Shoe 1' },
+	{ thumbnail: thumbnailShoe2, bigShoe: bigShoe2, label: 'Shoe 2' },
+	{ thumbnail: thumbnailShoe3, bigShoe: bigShoe3, label: 'Shoe 3' },
 ];
 
 export const statistics = [
