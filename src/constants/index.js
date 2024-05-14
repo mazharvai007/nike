@@ -29,7 +29,7 @@ export const navLinks = [
 	{ href: '#contact-us', label: 'Contact Us' },
 ];
 
-export const shoe = [
+export const shoes = [
 	{ thumbnail: thumbnailShoe1, bigShoe: bigShoe1 },
 	{ thumbnail: thumbnailShoe2, bigShoe: bigShoe2 },
 	{ thumbnail: thumbnailShoe3, bigShoe: bigShoe3 },
